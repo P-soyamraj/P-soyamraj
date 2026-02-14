@@ -96,10 +96,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
 </a>
 
-<!-- Tableau -->
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
-</a>
+
 
 </p>
 
