@@ -88,10 +88,11 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
 </a>
-<!-- MLflow -->
+<!-- MLflow (Colored) -->
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" alt="mlflow" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/>
 </a>
+
 
 
 
