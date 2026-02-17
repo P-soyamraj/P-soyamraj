@@ -101,8 +101,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-soyamraj&show_icons=true&locale=en&layout=compact" alt="p-soyamraj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-soyamraj&show_icons=true&locale=en" alt="p-soyamraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-soyamraj&" alt="p-soyamraj" /></p>
