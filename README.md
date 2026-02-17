@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python | Pandas | NumPy | Matplotlib | Sql**
 
-- 🌱 I’m currently learning **Statices | Power Bi | Machine Learning | Deep Learning | Data Visualization | Generative AI |Cloud for Data Science | Mlops**
+- 🌱 I’m currently learning **Statices | Power Bi | Machine Learning | Deep Learning | Data Visualization | Generative AI |Cloud for Data Science | Mlops |GenAi**
 
 - 💬 Ask me about **Data Science**
 
